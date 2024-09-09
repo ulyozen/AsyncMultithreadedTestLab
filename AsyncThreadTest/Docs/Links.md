@@ -1,0 +1,5 @@
+- Станислав Сидристый — Тонкие настройки стандартного ThreadPool: [youtube](https://www.youtube.com/watch?v=zeWhoFWGWKo&t=117s)
+- Станислав Сидристый — О Thread и ThreadPool в .NET подробно (часть 1): [habr](https://habr.com/ru/articles/654101/)
+- Станислав Сидристый — О Thread и ThreadPool в .NET подробно (часть 2): [habr](https://habr.com/ru/articles/654111/)
+- Станислав Сидристый — dotnetbook: [github](https://github.com/sidristij/dotnetbook/tree/master/book/ru/Execution/01-Threads)
+- Родион Мостовой — Еще раз про асинхронную машину состояний и где именно там аллокации: [habr](https://habr.com/ru/companies/otus/articles/791086/)
